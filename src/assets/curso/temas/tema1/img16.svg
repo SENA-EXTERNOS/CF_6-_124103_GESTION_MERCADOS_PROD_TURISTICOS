@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="159.485" viewBox="0 0 322 159.485">
+  <g id="Grupo_138861" data-name="Grupo 138861" transform="translate(9133 2391.612)">
+    <text id="CFT_CVT" data-name="CFT+CVT" transform="translate(-9133 -2391.612)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="100.914" y="15">CFT+CVT</tspan></text>
+    <text id="_CPU" data-name="= CPU" transform="translate(-8869 -2374.127)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="7.188" y="15">= CPU</tspan></text>
+    <text id="CUP_100_" data-name="CUP=100%" transform="translate(-9053 -2300.127)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="14.832" y="15">CUP=100%</tspan></text>
+    <text id="_CUP_U_CUP_PV" data-name="(CUP*%U)+CUP=PV" transform="translate(-9114 -2256.127)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="45.547" y="15">(CUP*%U)+CUP=PV</tspan></text>
+    <text id="PTE" transform="translate(-9040 -2350.127)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="26.633" y="15">PTE</tspan></text>
+    <line id="Línea_495" data-name="Línea 495" x2="245" transform="translate(-9121.5 -2363.326)" fill="none" stroke="#feca2e" stroke-width="1"/>
+  </g>
+</svg>

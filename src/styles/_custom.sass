@@ -2,14 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 30%;
+    right: 34%;
+    width: 30%;
 
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+  bottom: -130px  
 
 @keyframes float1
   0%
@@ -17,3 +16,134 @@
 
   100%
     transform: translateY(0px)
+
+//Tema1
+.bloque-texto-g__img 
+    left: 50%
+
+@media screen and ( max-width: 500px )
+  .bloque-texto-g__img 
+    left: 0%
+
+.bloque-texto-g__texto 
+    right: 40%
+
+@media screen and ( max-width: 500px )
+  .bloque-texto-g__texto
+    right: 0%
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #F6F6F6
+
+.acordion_accion_btn--a
+  background-color: $color-acento-contenido !important
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+.acordion__accion__btn--a
+  background-color: #a7e446
+
+.lista-ul--color li > i:first-of-type 
+    color: $color-primario
+
+.cajonAmarillo
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: #FFF6DB
+    &:before
+      background-color: #FDB74D
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 30%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones 
+
+.clr-paleYellow
+  background-color: #FEE3E4
+
+.tabs-a__tab 
+  background-color: #FEE3E4         
+
+//Tema 2
+
+.tarjeta-color-1
+  background-color: #D9EAEA !important
+  @media screen and ( max-width: 500px )
+    border-bottom-left-radius: 0px !important
+    border-top-right-radius: 20px !important
+    
+
+.tarjeta-color-2
+  background-color: #FFF6D9 !important
+  @media screen and ( max-width: 500px )
+    border-bottom-left-radius: 20px !important
+    border-top-right-radius: 0px !important   
+    border-bottom-right-radius: 20px !important 
+
+.bgr-tarjeta-tema2:before
+    background: #FECA2E
+    
+.bgr-tarjeta-tema2
+    background: #FFF2CA
+
+.linea-tiempo-d.color-primario .linea-tiempo-d_item--selected .linea-tiempo-ditem_number 
+    background-color: #FFF2CA
+
+.recuadro-color
+  background-color: #e9f8d0
+
+.bgr1-tema1
+  background-image: url(../assets/curso/temas/tema1/bgr1.png)
+  background-size: 100% 100%
+
+.slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #feca2e
+
+.img-infografica-b.color-acento-botones .img-infografica-b__item__numero 
+  font-size: x-large
+
+.img-infografica__item__tooltip, .img-infografica-b__item__tooltip
+  background-color: #cccccc00
+
+//custom para cajones de colores------------------------- 
+.cajon.color-1
+  background-color: #e9f8d0
+.cajon.color-1:before
+  background-color: #a7e446
+//----------------------------------------
+
+//negrilla para titulos de TabsC Activos-----
+.tabs-c__tab--active
+  font-weight: bold
+  border-bottom: 4px solid !important
+//--------------------------------------------
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #DFF7F9
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFF2CA
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FFF2CA  
+//-----------------------------------------      
