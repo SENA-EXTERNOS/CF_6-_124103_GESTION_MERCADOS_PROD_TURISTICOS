@@ -8,7 +8,7 @@
       h1 Pronóstico de ventas
     
     .row.justify-content-center.align-items-center
-      .col-lg-6
+      .col-lg-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Texto que describa la imagen')
       

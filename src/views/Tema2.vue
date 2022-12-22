@@ -8,7 +8,7 @@
       h1 Mercado
 
     .row.justify-content-center.align-items-center
-      .col-lg-6
+      .col-lg-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       
@@ -58,10 +58,10 @@
     .row.justify-content-center
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
+          .bloque-texto-g1__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img3.svg')})`}"
           )
-          .bloque-texto-g__texto.p-4
+          .bloque-texto-g1__texto.p-4
             p.mb-0 En el mercado turístico puede presentarse cualquiera de los tipos de demanda explicados anteriormente, en especial el irregular o estacional, teniendo en cuenta los periodos de temporada alta, media y baja que suelen estar relacionados con las vacaciones de los colegios, universidades y empresas. A continuación, se explica más a detalle lo que debe conocer para realizar una debida planificación.
 
     .row.mt-5
@@ -143,10 +143,10 @@
       h2 2.3 Equilibrio entre oferta y demanda
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-      .bloque-texto-g__img(
+      .bloque-texto-g2__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img7.svg')})`}"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g2__texto.p-4
         p.mb-0 La relación entre la oferta y la demanda está mediada por las interacciones que tengan los oferentes y los clientes en cuanto a precio, cantidad y calidad de los productos o servicios que son puestos en el mercado por los oferentes y consumidos por los clientes. Por tanto, el equilibrio entre la oferta y la demanda es el que se da cuando se nivela el precio que tiene el producto con el valor que está dispuesto a pagar el cliente, y el número de unidades disponibles a la venta con el número de unidades que el mercado demanda. 
 
     .row.mt-5
