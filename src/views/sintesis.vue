@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Por medio del siguiente mapa conceptual se muestra la manera como se relacionan todos los temas del presente componente formativo, destacando sus puntos de encuentro y los elementos que los integran. Es de resaltar que el mercado turístico tiene como componentes fundamentales la demanda y oferta turística, que a su vez hablan de precio y tarifa.
+    p Por medio del siguiente mapa conceptual se muestra la manera como se relacionan todos los temas del presente componente formativo, destacando sus puntos de encuentro y los elementos que los integran. Es de resaltar que el mercado turístico tiene como componentes fundamentales la demanda y oferta turística, que a su vez se relacionan con los conceptos de precio y tarifa.
     
     .row.justify-content-center
       .col-lg-10.mb-5

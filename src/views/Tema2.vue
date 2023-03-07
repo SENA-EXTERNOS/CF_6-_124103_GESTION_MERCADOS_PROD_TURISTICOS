@@ -13,16 +13,11 @@
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       
       .col-lg-6
-        p El mercado turístico es el espacio físico o virtual donde se produce el intercambio de bienes y servicios, además de todas las interacciones que surgen a partir de este intercambio; por lo tanto, se mueve alrededor de las actividades económicas fundamentales (producción, distribución y consumo), evidenciando así que sus actores principales son los viajeros, visitantes y prestadores de servicios turísticos, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado, se encuentran el precio, la tarifa, el producto y el proceso de intercambio.
+        p El mercado turístico es el espacio físico o virtual donde se produce el intercambio de bienes y servicios, además de todas las interacciones que surgen a partir de este intercambio; por lo tanto, se mueve alrededor de las actividades económicas fundamentales (producción, distribución y consumo). Sus actores principales son los viajeros, visitantes y prestadores de servicios turísticos, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado, se encuentran el precio, la tarifa, el producto y el proceso de intercambio.
 
-        p A continuación, conocerá más acerca de la demanda.
 
-    separador
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.1 Demanda
+    h3 Demanda
 
     .bg--img_03
       .row.justify-content-center.mb-2
@@ -31,6 +26,9 @@
             img(src="@/assets/curso/temas/tema2/img2.svg", alt="alt").img400.m-auto
         .col-lg-8
           p.m-2 La demanda es uno de los componentes fundamentales del mercado turístico y se define como la cantidad de un producto o servicio específico que las personas quieren tener en un horizonte de tiempo determinado.
+            br
+            br
+            |Observe a continuación, otras acepciones sobre el concepto de demanda:
           
           AcordionA.mb-5.mt-3(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="¿Qué es?")
@@ -47,7 +45,7 @@
 
 
     .row.mt-3
-      p A partir de lo anterior, ¿qué tipos de demanda hay en el mercado? 
+      p A partir de lo anterior, ¿qué tipos de demanda hay en el mercado? En el siguiente video se explicarán los tipos de demanda según Quiroa (2019) y sus características:
 
     .row.justify-content-center.align-items-center.mb-5.mt-5          
       .col-lg-12(data-aos="fade-left")     
@@ -62,10 +60,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img3.svg')})`}"
           )
           .bloque-texto-g1__texto.p-4
-            p.mb-0 En el mercado turístico puede presentarse cualquiera de los tipos de demanda explicados anteriormente, en especial el irregular o estacional, teniendo en cuenta los periodos de temporada alta, media y baja que suelen estar relacionados con las vacaciones de los colegios, universidades y empresas. A continuación, se explica más a detalle lo que debe conocer para realizar una debida planificación.
+            p.mb-0 En el mercado turístico puede presentarse cualquiera de los tipos de demanda explicados anteriormente, en especial el irregular o estacional, teniendo en cuenta los periodos de temporada alta, media y baja que suelen estar relacionados con las vacaciones de los colegios, universidades y empresas. 
 
     .row.mt-5
-      p En este caso, es de vital importancia una planificación anual con pronósticos de venta y la programación de contratación de personal acorde a las ventas proyectadas, para de esta manera adaptar la oferta a la demanda.    
+      p Es de vital importancia tener una planificación anual con pronósticos de venta y la programación de contratación de personal acorde a las ventas proyectadas para adaptar la oferta a la demanda. A continuación, se explica qué es una variable y cómo se puede definir:   
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5.tarjeta-color-1
@@ -87,12 +85,15 @@
               img(src='@/assets/curso/temas/tema2/img5.svg', alt='Texto que describa la imagen')
           
         p.text-center.mb-0 En este orden de ideas, las variables de la demanda derivan de los componentes de esta, como se puede apreciar en el siguiente ejemplo:
-
-        p.text-center.mt-0.mb-0 Crece la cifra de visitantes no residentes en el país y rompe récord en 2019. De acuerdo con las cifras de Migración Colombia, entre agosto 2018 y junio 2022 han llegado al país 11.968.326 visitantes. En particular, se destaca la recuperación presentada en 2021 (equivalente a un 55 %) frente al 2020, cuando inició la pandemia, y la llegada de 4.530.574 visitantes en 2019, un hito histórico en el país (Procolombia, 2022, p. 10)
-
-        p.text-center.mt-0.mb-0 En el ejemplo anterior se mide la demanda de turistas extranjeros según las cifras entregadas por Migración, comparando esta medición con años anteriores.
-
-        p.text-center.mt-0A manera de ejemplo, otras variables de la demanda turística en este caso podrían ser:
+          br
+          br
+          |Crece la cifra de visitantes no residentes en el país y rompe récord en 2019. De acuerdo con las cifras de Migración Colombia, entre agosto 2018 y junio 2022 han llegado al país 11.968.326 visitantes. En particular, se destaca la recuperación presentada en 2021 (equivalente a un 55 %) frente al 2020, cuando inició la pandemia, y la llegada de 4.530.574 visitantes en 2019, un hito histórico en el país (Procolombia, 2022, p. 10)
+          br
+          br
+          |En el ejemplo anterior se mide la demanda de turistas extranjeros según las cifras entregadas por Migración, comparando esta medición con años anteriores.
+          br
+          br
+          |A manera de ejemplo, otras variables de la demanda turística podrían ser:
 
         ul.lista-ul--color.ps-5
           li 
@@ -111,18 +112,12 @@
             i.fas.fa-square
             p.mb-0 El tipo de servicios que consumen.
 
-    .row.mt-5
-      p A partir de lo anterior, se indagará sobre la oferta.
             
 
-    separador
 
-    #t_2_2
+    h3 Oferta
 
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.2 Oferta
-
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p Es la cantidad de un producto o servicio que se dispone para la venta en un periodo determinado, es decir, el número de productos o servicios que están disponibles para la venta en una hora, día, mes o año determinado. Según Arévalo (2019):
 
@@ -135,12 +130,8 @@
         figure 
           img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen')
         
-    separador
 
-    #t_2_3
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.3 Equilibrio entre oferta y demanda
+    h3.mb-5 Equilibrio entre oferta y demanda
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g2__img(
@@ -149,8 +140,6 @@
       .bloque-texto-g2__texto.p-4
         p.mb-0 La relación entre la oferta y la demanda está mediada por las interacciones que tengan los oferentes y los clientes en cuanto a precio, cantidad y calidad de los productos o servicios que son puestos en el mercado por los oferentes y consumidos por los clientes. Por tanto, el equilibrio entre la oferta y la demanda es el que se da cuando se nivela el precio que tiene el producto con el valor que está dispuesto a pagar el cliente, y el número de unidades disponibles a la venta con el número de unidades que el mercado demanda. 
 
-    .row.mt-5
-      p A continuación, se analiza lo referente al pronóstico de ventas.
     
 
 </template>

@@ -38,26 +38,6 @@ export default {
         numero: '2',
         titulo: 'Mercado',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Demanda',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Oferta',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Equilibrio entre oferta y demanda',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -205,41 +185,41 @@ export default {
   referencias: [
     {
       referencia:
-        'Libro electrónico: Acosta Véliz, M., Salas Narváez, L., Jiménez Cercado, M., & Guerra Tejada, A. M. (2018). La administración de ventas. 3Ciencias.',
+        'Acosta Véliz, M., Salas Narváez, L., Jiménez Cercado, M., & Guerra Tejada, A. M. (2018). La administración de ventas. 3Ciencias.',
       link:
         'https://www.3ciencias.com/wp-content/uploads/2018/02/La-administracion-de-ventas.pdf',
     },
     {
       referencia:
-        'Artículo: Alban, J., García, D., & Tapia, J. (2020). <em>Costos de importación de productos textiles y su incidencia en la utilidad empresarial</em>. Universidad Ciencia y Tecnología, 24(105), 12-19.',
+        'Alban, J., García, D., & Tapia, J. (2020). <em>Costos de importación de productos textiles y su incidencia en la utilidad empresarial</em>. Universidad Ciencia y Tecnología, 24(105), 12-19.',
       link:
         'https://uctunexpo.autanabooks.com/index.php/uct/article/view/376/777',
     },
     {
       referencia:
-        'Libro electrónico: Arévalo, G. (2019). <em>Fundamentos de mercadeo</em>. Fundación Universitaria del Área Andina.',
+        'Arévalo, G. (2019). <em>Fundamentos de mercadeo</em>. Fundación Universitaria del Área Andina.',
       link:
         'https://digitk.areandina.edu.co/bitstream/handle/areandina/1382/Fundamentos%20de%20mercadeo.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Página web: Guaramaco, K. (2017). 5 <em>Estrategias de mercadeo basadas en el precio</em>. Sirloin Roastbrief.',
+        'Guaramaco, K. (2017). 5 <em>Estrategias de mercadeo basadas en el precio</em>. Sirloin Roastbrief.',
       link:
         'https://roastbrief.com.mx/2017/01/5-estrategias-de-mercadeo-basadas-en-el-precio/',
     },
     {
       referencia:
-        'Artículo digital: Moreno, L. A. Guerrero, C. M. Colchero, M. A. Quezada, A. D., & Bautista, S. (2021). Elasticidad, precio y elasticidad ingreso de la demanda de cerveza en México. <em>Salud pública de México, 63</em>(4), p. 575-582.',
+        'Moreno, L. A. Guerrero, C. M. Colchero, M. A. Quezada, A. D., & Bautista, S. (2021). Elasticidad, precio y elasticidad ingreso de la demanda de cerveza en México. <em>Salud pública de México, 63</em>(4), p. 575-582.',
       link: 'https://saludpublica.mx/index.php/spm/article/view/12026/12109',
     },
     {
       referencia:
-        'Libro: Pérez, R. (2019). <em>Modelación financiera: Conceptos y aplicaciones</em>. Universidad Piloto de Colombia.',
+        'Pérez, R. (2019). <em>Modelación financiera: Conceptos y aplicaciones</em>. Universidad Piloto de Colombia.',
       link: 'https://www-digitaliapublishing-com.ezproxy.utp.edu.co/a/111481.',
     },
     {
       referencia:
-        'Artículo: Piñero, L., & Piñero, L. D. M. P. (2019). Ruta metodológica para avanzar en el periplo de la investigación educativa con variable compuesta o predicativa. <em>Orbis: Revista de Ciencias Humanas</em>, 14(42), 60-74.',
+        'Piñero, L., & Piñero, L. D. M. P. (2019). Ruta metodológica para avanzar en el periplo de la investigación educativa con variable compuesta o predicativa. <em>Orbis: Revista de Ciencias Humanas</em>, 14(42), 60-74.',
       link: '',
     },
     {
@@ -249,24 +229,24 @@ export default {
     },
     {
       referencia:
-        'Página web: Quiroa, M. (2019). <em>Tipos de demanda en marketing</em>. Economipedia.com.',
+        'Quiroa, M. (2019). <em>Tipos de demanda en marketing</em>. Economipedia.com.',
       link:
         'https://economipedia.com/definiciones/tipos-de-demanda-en-marketing.html',
     },
     {
       referencia:
-        'Artículo digital: Rebollar, S. Hernández, J. Guzmán, E. Rebollar, E. & González, F. D. J. (2021). <em>La elasticidad precio de la demanda: caso teórico no corroborado.</em>',
+        'Rebollar, S. Hernández, J. Guzmán, E. Rebollar, E. & González, F. D. J. (2021). <em>La elasticidad precio de la demanda: caso teórico no corroborado.</em>',
       link: 'http://ri.uaemex.mx/handle/20.500.11799/111196',
     },
     {
       referencia:
-        'Nota técnica: Red Universitaria Virtual Internacional (RED SUMMA). (2019). <em>Marketing-Mix.</em> ',
+        'Red Universitaria Virtual Internacional (RED SUMMA). (2019). <em>Marketing-Mix.</em> ',
       link:
         'https://campusvirtual.iep.edu.es/recursos/recursos_premium/programa-habilidades/pdf/marketing/pdf4.pdf',
     },
     {
       referencia:
-        'Artículo digital: Vaca, L. M. F., Guerrero, M. F. G., Fajardo, C. E. V., Vaca, L. A. F., Santillán, X. L. Z., Granda, L. E. S., & Salazar, J. A. P. (2019). Valor actual neto y tasa interna de retorno como parámetros de evaluación de las inversiones. <em>Investigación Operacional, 40</em>(4), 469-474.',
+        'Vaca, L. M. F., Guerrero, M. F. G., Fajardo, C. E. V., Vaca, L. A. F., Santillán, X. L. Z., Granda, L. E. S., & Salazar, J. A. P. (2019). Valor actual neto y tasa interna de retorno como parámetros de evaluación de las inversiones. <em>Investigación Operacional, 40</em>(4), 469-474.',
       link: '',
     },
   ],

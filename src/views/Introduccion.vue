@@ -25,14 +25,6 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)            
 
-    .row.justify-content-center
-      .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img2.svg')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Para ampliar la información descrita anteriormente, se le invita a ver la siguiente presentación referente al precio.
 
 </template>
 
