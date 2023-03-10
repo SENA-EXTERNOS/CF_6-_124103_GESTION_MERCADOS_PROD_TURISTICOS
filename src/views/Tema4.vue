@@ -14,10 +14,8 @@
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='Texto que describa la imagen')
       
-      p.mt-4 A continuación encontrará la síntesis de este componente formativo.
 
 
- 
 
 </template>
 
