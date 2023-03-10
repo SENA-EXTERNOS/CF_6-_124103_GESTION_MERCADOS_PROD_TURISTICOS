@@ -229,7 +229,7 @@ export default {
     },
     {
       referencia:
-        'Quiroa, M. (2019). <em>Tipos de demanda en marketing</em>. Economipedia.com.',
+        'Quiroa, M. (29 de noviembre de 2019). <em>Tipos de demanda en marketing.</em> Economipedia.com. ',
       link:
         'https://economipedia.com/definiciones/tipos-de-demanda-en-marketing.html',
     },
@@ -248,6 +248,11 @@ export default {
       referencia:
         'Vaca, L. M. F., Guerrero, M. F. G., Fajardo, C. E. V., Vaca, L. A. F., Santillán, X. L. Z., Granda, L. E. S., & Salazar, J. A. P. (2019). Valor actual neto y tasa interna de retorno como parámetros de evaluación de las inversiones. <em>Investigación Operacional, 40</em>(4), 469-474.',
       link: '',
+    },
+    {
+      referencia:
+        'Westreicher, G. (29 de octubre de 2021). <em>Precio de venta.</em> Economipedia.com.',
+      link: 'https://economipedia.com/definiciones/precio-de-venta.html',
     },
   ],
   creditos: {
