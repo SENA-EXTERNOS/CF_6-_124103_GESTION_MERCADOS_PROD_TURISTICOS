@@ -182,7 +182,7 @@
               li 
                 i.fas.fa-square
                 p.mb-0.text-white Los presupuestos estables son todos los valores que la empresa destina de manera fija cada mes para la realización de actividades clave, como publicidad, mercadeo o control de calidad, entre otros.                                 
-          div(x="42.2%" y="3.3%" tooltip="" numero="+")
+          div(x="43.7%" y="3.3%" tooltip="" numero="+")
             h4 Costos variables totales
 
             p Costos variables totales. Hacen referencia a los costos que dependen del volumen de la actividad, el movimiento de las ventas o las estrategias de mercadeo que se realicen. En estos se incurre cuando el producto o servicio se vende, por lo tanto, los valores no se mantienen iguales mes tras mes y están sujetos a las ventas.
@@ -199,7 +199,7 @@
               li 
                 i.fas.fa-square
                 p.mb-0.text-white Valor del personal extra que se debe pagar por el aumento en el nivel de ventas de la empresa. 
-          div(x="78.2%" y="3.3%" tooltip="" numero="+") 
+          div(x="78.6%" y="3.3%" tooltip="" numero="+") 
             h4 Producción total estimada del producto en un tiempo determinado
 
             p Corresponde a la cantidad total del producto o servicio que la empresa tiene programado ofrecer, en función de la capacidad instalada de fabricación u operación con la que cuenta, o la disponibilidad para prestar un servicio. Algunos ejemplos de producción estimada son:
@@ -235,7 +235,7 @@
             p.mb-0 Una vez se cuente con esta información, se procede a reemplazar en la ecuación para obtener el CUP, de la siguiente manera:           
             
             p.text-center CUP= CFP + CVTP 
-          div(x="42.2%" y="70.2%" tooltip="" numero="+")    
+          div(x="43.1%" y="70.2%" tooltip="" numero="+")    
             h4 Hacer el cálculo: 
             p.text-white Una vez se cuenta con toda la información, es posible realizar el cálculo del precio de venta o tarifa al público, reemplazando los valores estudiados en el método de la teoría de los precios, en la siguiente fórmula:
             .row.justify-content-center
@@ -243,10 +243,10 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img16.svg', alt='Texto que describa la imagen') 
             p.text-white.mt-3 Esta manera de estimar el precio del producto garantiza que se cubran sus costes de producción y que además genere ganancias para la empresa. 
-          div(x="8.9%" y="70.3%" tooltip="" numero="+") 
+          div(x="9.2%" y="70.3%" tooltip="" numero="+") 
             h4 Precio de venta del producto. 
             p Es el valor que debe pagar un cliente para adquirir un producto determinado, sea tangible o intangible. 
-          div(x="78.4%" y="70.3%" tooltip="" numero="+") 
+          div(x="78.7%" y="70.3%" tooltip="" numero="+") 
             h4 Ejemplo:   
             p.text-white Un artesano que comercializa a los turistas figuras en madera de animales endémicos de su territorio, necesita estimar el precio de un nuevo producto: una serpiente mata ganado; el artesano tiene calculado los costos fijos ($550.000) y los costos variables ($120.000) para sacar a la venta solo 15 productos iguales, ya que sus artesanías se identifican por ser exclusivas y de un bajo stock; además espera recibir un 30 % de utilidad de la venta de cada producto. 
               br
