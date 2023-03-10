@@ -182,28 +182,7 @@
               li 
                 i.fas.fa-square
                 p.mb-0.text-white Los presupuestos estables son todos los valores que la empresa destina de manera fija cada mes para la realización de actividades clave, como publicidad, mercadeo o control de calidad, entre otros.                                 
-
-          div(x="42.2%" y="3.3%" tooltip="" numero="+") 
-            h4 Ejemplo:   
-            p.text-white Un artesano que comercializa a los turistas figuras en madera de animales endémicos de su territorio, necesita estimar el precio de un nuevo producto: una serpiente mata ganado; el artesano tiene calculado los costos fijos ($550.000) y los costos variables ($120.000) para sacar a la venta solo 15 productos iguales, ya que sus artesanías se identifican por ser exclusivas y de un bajo stock; además espera recibir un 30 % de utilidad de la venta de cada producto. 
-              br
-              br
-              |Se procede a aplicar la siguiente fórmula para conocer el precio estimado de venta, con el cual el artesano debe lanzar al mercado el producto:
-            .row.justify-content-center
-              .col-lg-6
-                figure
-                  img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen') 
-            p.text-white.mt-3 A partir de este ejercicio, el artesano redondea el precio y lanza su nuevo producto al público con un valor de $59.000, el cual le garantiza una ganancia de $14.334 por cada artesanía vendida.              
-
-          div(x="78.2%" y="3.3%" tooltip="" numero="+")    
-            p.text-white Una vez se cuenta con toda la información, es posible realizar el cálculo del precio de venta o tarifa al público, reemplazando los valores estudiados en el método de la teoría de los precios, en la siguiente fórmula:
-            .row.justify-content-center
-              .col-lg-6
-                figure
-                  img(src='@/assets/curso/temas/tema1/img16.svg', alt='Texto que describa la imagen') 
-            p.text-white.mt-3 Esta manera de estimar el precio del producto garantiza que se cubran sus costes de producción y que además genere ganancias para la empresa.      
-
-          div(x="8.7%" y="37.3%" tooltip="" numero="+")
+          div(x="42.2%" y="3.3%" tooltip="" numero="+")
             h4 Costos variables totales
 
             p Costos variables totales. Hacen referencia a los costos que dependen del volumen de la actividad, el movimiento de las ventas o las estrategias de mercadeo que se realicen. En estos se incurre cuando el producto o servicio se vende, por lo tanto, los valores no se mantienen iguales mes tras mes y están sujetos a las ventas.
@@ -219,13 +198,8 @@
                 p.mb-0.text-white Valor de los #[em amenities] que se consumen cuando una habitación es ocupada (se entiende por #[em amenities] productos como el #[em shampoo], acondicionador, gel de ducha, crema de manos, gorro de baño, lapicero y demás objetos que el alojamiento pone a disposición de sus huéspedes para su estancia, en empaques individuales o de un solo uso).
               li 
                 i.fas.fa-square
-                p.mb-0.text-white Valor del personal extra que se debe pagar por el aumento en el nivel de ventas de la empresa.     
-
-          div(x="78.2%" y="37.3%" tooltip="" numero="+") 
-            h4 Precio de venta del producto. 
-            p Es el valor que debe pagar un cliente para adquirir un producto determinado, sea tangible o intangible.
-
-          div(x="8.7%" y="70.3%" tooltip="" numero="+") 
+                p.mb-0.text-white Valor del personal extra que se debe pagar por el aumento en el nivel de ventas de la empresa. 
+          div(x="78.2%" y="3.3%" tooltip="" numero="+") 
             h4 Producción total estimada del producto en un tiempo determinado
 
             p Corresponde a la cantidad total del producto o servicio que la empresa tiene programado ofrecer, en función de la capacidad instalada de fabricación u operación con la que cuenta, o la disponibilidad para prestar un servicio. Algunos ejemplos de producción estimada son:
@@ -235,10 +209,8 @@
                 p.mb-0.text-white Número total de una referencia de producto programada para fabricar en cada mes del año.
               li 
                 i.fas.fa-square
-                p.mb-0.text-white Número de habitaciones disponibles para la venta en cada mes del año. En este caso, es fundamental tener en cuenta que se multiplica el número de habitaciones disponibles por los días del mes; por ejemplo, 10 habitaciones disponibles por 30 días del mes nos darían un total de 300 habitaciones disponibles por mes.
-      
-
-          div(x="42.2%" y="70.3%" tooltip="" numero="+") 
+                p.mb-0.text-white Número de habitaciones disponibles para la venta en cada mes del año. En este caso, es fundamental tener en cuenta que se multiplica el número de habitaciones disponibles por los días del mes; por ejemplo, 10 habitaciones disponibles por 30 días del mes nos darían un total de 300 habitaciones disponibles por mes.   
+          div(x="8.9%" y="37.3%" tooltip="" numero="+") 
             h4 Costo por unidad de producción
             p Costo por unidad de producción. Corresponde al valor total que la empresa debe pagar para lograr cada unidad de producto o servicio y ponerla a la venta. Para determinar este valor es necesario asignar una tarifa de costo fijo a cada producto y sumarle las variables.  
             ul.lista-ul--color
@@ -248,7 +220,7 @@
 
             .row.justify-content-center
               .col-lg-6
-                figure
+                figure.mb-3
                   img(src='@/assets/curso/temas/tema1/img17.svg', alt='Texto que describa la imagen') 
 
             ul.lista-ul--color
@@ -260,16 +232,44 @@
             p.text-center.mb-0 + Costo variable individual (3)
             p.text-center = CVTP costo variable total por producto o servicio 
             
-            ul.lista-ul--color
-              li 
-                i.fas.fa-square
-                p.mb-0.text-white Una vez se cuente con esta información, se procede a reemplazar en la ecuación para obtener el CUP, de la siguiente manera:           
+            p.mb-0 Una vez se cuente con esta información, se procede a reemplazar en la ecuación para obtener el CUP, de la siguiente manera:           
             
-            p.text-center CUP= CFP + CVTP
+            p.text-center CUP= CFP + CVTP 
+          div(x="42.2%" y="70.2%" tooltip="" numero="+")    
+            p.text-white Una vez se cuenta con toda la información, es posible realizar el cálculo del precio de venta o tarifa al público, reemplazando los valores estudiados en el método de la teoría de los precios, en la siguiente fórmula:
+            .row.justify-content-center
+              .col-lg-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img16.svg', alt='Texto que describa la imagen') 
+            p.text-white.mt-3 Esta manera de estimar el precio del producto garantiza que se cubran sus costes de producción y que además genere ganancias para la empresa. 
+          div(x="8.9%" y="70.3%" tooltip="" numero="+") 
+            h4 Precio de venta del producto. 
+            p Es el valor que debe pagar un cliente para adquirir un producto determinado, sea tangible o intangible. 
+          div(x="78.4%" y="70.3%" tooltip="" numero="+") 
+            h4 Ejemplo:   
+            p.text-white Un artesano que comercializa a los turistas figuras en madera de animales endémicos de su territorio, necesita estimar el precio de un nuevo producto: una serpiente mata ganado; el artesano tiene calculado los costos fijos ($550.000) y los costos variables ($120.000) para sacar a la venta solo 15 productos iguales, ya que sus artesanías se identifican por ser exclusivas y de un bajo stock; además espera recibir un 30 % de utilidad de la venta de cada producto. 
+              br
+              br
+              |Se procede a aplicar la siguiente fórmula para conocer el precio estimado de venta, con el cual el artesano debe lanzar al mercado el producto:
+            .row.justify-content-center
+              .col-lg-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen') 
+            p.text-white.mt-3 A partir de este ejercicio, el artesano redondea el precio y lanza su nuevo producto al público con un valor de $59.000, el cual le garantiza una ganancia de $14.334 por cada artesanía vendida.              
 
-          div(x="78.2%" y="70.3%" tooltip="" numero="+") 
+              
+
+          
+
+          
+
+          
+      
+
+
+          div(x="78.2%" y="37.3%" tooltip="" numero="+") 
             h4 Margen de utilidad   
-            p Margen de utilidad. Es la ganancia que se obtendrá por producto vendido. Esta utilidad normalmente es expresada en porcentaje, esperando que este se encuentre en un rango de entre 30 % y 40 %.                                    
+            p Es la ganancia que se obtendrá por producto vendido. Esta utilidad normalmente es expresada en porcentaje y se espera que se encuentre en un rango entre el 30 % y 40 %                                 
 
     .row.justify-content-center.mt-5
       p #[b ¿Cómo se diseñan estrategias de mercados con base en el precio?]
