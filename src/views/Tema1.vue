@@ -236,6 +236,7 @@
             
             p.text-center CUP= CFP + CVTP 
           div(x="42.2%" y="70.2%" tooltip="" numero="+")    
+            h4 Hacer el cálculo: 
             p.text-white Una vez se cuenta con toda la información, es posible realizar el cálculo del precio de venta o tarifa al público, reemplazando los valores estudiados en el método de la teoría de los precios, en la siguiente fórmula:
             .row.justify-content-center
               .col-lg-6
