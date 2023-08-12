@@ -209,16 +209,6 @@ export default {
     },
     {
       referencia:
-        'Moreno, L. A. Guerrero, C. M. Colchero, M. A. Quezada, A. D., & Bautista, S. (2021). Elasticidad, precio y elasticidad ingreso de la demanda de cerveza en México. <em>Salud pública de México, 63</em>(4), p. 575-582.',
-      link: 'https://saludpublica.mx/index.php/spm/article/view/12026/12109',
-    },
-    {
-      referencia:
-        'Pérez, R. (2019). <em>Modelación financiera: Conceptos y aplicaciones</em>. Universidad Piloto de Colombia.',
-      link: 'https://www-digitaliapublishing-com.ezproxy.utp.edu.co/a/111481.',
-    },
-    {
-      referencia:
         'Piñero, L., & Piñero, L. D. M. P. (2019). Ruta metodológica para avanzar en el periplo de la investigación educativa con variable compuesta o predicativa. <em>Orbis: Revista de Ciencias Humanas</em>, 14(42), 60-74.',
       link: '',
     },
