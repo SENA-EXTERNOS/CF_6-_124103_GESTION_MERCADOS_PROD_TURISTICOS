@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
       
       .col-lg-6
-        p El mercado turístico es el espacio físico o virtual donde se produce el intercambio de bienes y servicios, además de todas las interacciones que surgen a partir de este intercambio; por lo tanto, se mueve alrededor de las actividades económicas fundamentales (producción, distribución y consumo). Sus actores principales son los viajeros, visitantes y prestadores de servicios turísticos, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado, se encuentran el precio, la tarifa, el producto y el proceso de intercambio.
+        p El mercado turístico es el espacio físico o virtual donde se produce el intercambio de bienes y servicios, además de todas las interacciones que surgen a partir de este intercambio; por lo tanto, se mueve alrededor de las actividades económicas fundamentales (producción, distribución y consumo). Sus actores principales son los viajeros, visitantes y prestadores de servicios turísticos, quienes, en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado, se encuentran el precio, la tarifa, el producto y el proceso de intercambio.
 
 
 
@@ -33,7 +33,7 @@
           AcordionA.mb-5.mt-3(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="¿Qué es?")
               .col-12
-                p.mb-0 La demanda constituye el número de productos o servicios que para una hora, día, mes o año determinado, se ha calculado que los consumidores están dispuestos a adquirir.
+                p.mb-0 La demanda constituye el número de productos o servicios que para una hora, día, mes o año determinado, se ha calculado que, los consumidores están dispuestos a adquirir.
 
             .row(titulo="Respecto a esto, Arévalo (2019) considera que la demanda es:")
               .col-12

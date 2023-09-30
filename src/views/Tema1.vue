@@ -29,7 +29,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
 
-            p En el caso del sector turístico, la mayoría del intercambio comercial que se ofrece se relaciona con servicios como alimentación en restaurantes o bares, alojamiento en hoteles, posadas, apartahoteles, camping, glamping o ecolodge, entretenimiento y ocio en parques temáticos, balnearios, termales y transporte marítimo, terrestre o aéreo. El precio en estos casos se denomina “tarifa”.
+            p En el caso del sector turístico, la mayoría del intercambio comercial que se ofrece se relaciona con servicios como alimentación en restaurantes o bares, alojamiento en hoteles, posadas, apartahoteles, #[i camping], #[i glamping] o #[i ecolodge], entretenimiento y ocio en parques temáticos, balnearios, termales y transporte marítimo, terrestre o aéreo. El precio en estos casos se denomina “tarifa”.
               br
               br
               |Según la Enciclopedia económica (s.f.), la tarifa es una cantidad monetaria determinada que se otorga para adquirir o consumir un servicio. Dicho monto es previamente establecido por el oferente del mismo, el cual se basa en los factores que considere relevantes. 
@@ -84,7 +84,7 @@
 
                 li 
                   i.fas.fa-square
-                  p.mb-0 #[b Tarifa #[em rack]:] la tarifa rack es la máxima cantidad cobrada, la cual considera el valor por huésped, noche, tipo de habitación y temporada, incluyendo impuestos. Esta tarifa no tiene ningún descuento especial y es usualmente utilizada en los hoteles para manejar la base del valor sobre el cual se realizan promociones, descuentos y/o negociaciones para alianzas con clientela clave.
+                  p.mb-0 #[b Tarifa #[em rack]:] la tarifa <i>rack</i> es la máxima cantidad cobrada, la cual considera el valor por huésped, noche, tipo de habitación y temporada, incluyendo impuestos. Esta tarifa no tiene ningún descuento especial y es usualmente utilizada en los hoteles para manejar la base del valor sobre el cual se realizan promociones, descuentos y/o negociaciones para alianzas con clientela clave.
 
 
           .col-md-6
@@ -96,16 +96,13 @@
 
             p #[b ¿Cómo se calcula?]
 
-            p Para calcular el precio de un producto o la tarifa para un servicio, actualmente se utilizan varios métodos, dependiendo del objetivo comercial que busque la empresa.
-              br
-              br
-              |Con base en la competencia
-              br
-              br
-              |El cálculo de precios de los productos o servicios se establece al analizar la competencia. Para llevar a cabo este proceso, es necesario indagar, identificar y conocer aquellas empresas cuyo producto sea similar o igual al que se ofrece en la organización.
-              br
-              br
-              |Teniendo en cuenta los precios ofrecidos por la competencia, se procede a tomar la decisión sobre la tarifa, para lo cual se cuenta con tres opciones básicas:
+            p.mb-4 Para calcular el precio de un producto o la tarifa para un servicio, actualmente se utilizan varios métodos, dependiendo del objetivo comercial que busque la empresa.
+
+            p.mb-4 #[b Con base en la competencia.]
+
+            p El cálculo de precios de los productos o servicios se establece al analizar la competencia. Para llevar a cabo este proceso, es necesario indagar, identificar y conocer aquellas empresas cuyo producto sea similar o igual al que se ofrece en la organización.
+
+            p Teniendo en cuenta los precios ofrecidos por la competencia, se procede a tomar la decisión sobre la tarifa, para lo cual se cuenta con tres opciones básicas:
 
             
           .col-md-6
@@ -185,7 +182,7 @@
           div(x="43.7%" y="3.3%" tooltip="" numero="+")
             h4 Costos variables totales
 
-            p Costos variables totales. Hacen referencia a los costos que dependen del volumen de la actividad, el movimiento de las ventas o las estrategias de mercadeo que se realicen. En estos se incurre cuando el producto o servicio se vende, por lo tanto, los valores no se mantienen iguales mes tras mes y están sujetos a las ventas.
+            p Hacen referencia a los costos que dependen del volumen de la actividad, el movimiento de las ventas o las estrategias de mercadeo que se realicen. En estos se incurre cuando el producto o servicio se vende, por lo tanto, los valores no se mantienen iguales mes tras mes y están sujetos a las ventas.
               br
               br
               |Algunos ejemplos de costos variables son:
@@ -212,7 +209,7 @@
                 p.mb-0.text-white Número de habitaciones disponibles para la venta en cada mes del año. En este caso, es fundamental tener en cuenta que se multiplica el número de habitaciones disponibles por los días del mes; por ejemplo, 10 habitaciones disponibles por 30 días del mes nos darían un total de 300 habitaciones disponibles por mes.   
           div(x="8.9%" y="37.3%" tooltip="" numero="+") 
             h4 Costo por unidad de producción
-            p Costo por unidad de producción. Corresponde al valor total que la empresa debe pagar para lograr cada unidad de producto o servicio y ponerla a la venta. Para determinar este valor es necesario asignar una tarifa de costo fijo a cada producto y sumarle las variables.  
+            p Corresponde al valor total que la empresa debe pagar para lograr cada unidad de producto o servicio y ponerla a la venta. Para determinar este valor es necesario asignar una tarifa de costo fijo a cada producto y sumarle las variables.  
             ul.lista-ul--color
               li 
                 i.fas.fa-square
@@ -410,9 +407,7 @@
             
             p.mt-0.ps-5 VAN = 0 la decisión queda al criterio del analista.
             
-            p Por su parte, según Vaca et al. (2019), la Tasa Interna de Retorno
-            
-            p.mb-0.ps-5 conocida también como Tasa Interna de Rentabilidad, en términos generales, es la tasa que hace que el VAN sea igual a cero. También podemos decir que es la tasa que iguala la suma de los flujos descontados a la inversión inicial. (p. 3)
+            p Por su parte, según Vaca et al. (2019), la Tasa Interna de Retorno conocida también como Tasa Interna de Rentabilidad, en términos generales, es la tasa que hace que el VAN sea igual a cero. También podemos decir que es la tasa que iguala la suma de los flujos descontados a la inversión inicial. (p. 3)
 
       .py-3.py-md-4(titulo="¿De qué manera afecta el precio al mercado?")
         .row.justify-content-center.p-3

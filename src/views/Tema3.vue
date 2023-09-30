@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-5.mt-5
       .col-lg-8
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Acosta et al. (2018) consideran que:")
+          .row(numero="1" titulo="Acosta et al. (2018) considera que:")
             .col-md-12.mb-4.mb-md-0
               p Los pronósticos de ventas se realizan para periodos de tiempo de proyección y se usan varias fórmulas de cálculo para determinar su valor, incluyendo métodos subjetivos (expectativas y experiencia del vendedor o dueño) y objetivos (estadísticas y #[i software] especializados). (p.30)
 
